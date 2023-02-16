@@ -21,3 +21,4 @@ test('can receive a new user and show it on a list', () => {
     expect(name).toBeInTheDocument();
     expect(email).toBeInTheDocument();
 });
+
